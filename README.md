@@ -16,7 +16,7 @@
 <li> Install Java 1.7 or above if you do not have already</li>
 <li> Download <a href="https://github.com/jagrutipatil/CodeToUML/blob/master/jar/javatouml.jar"> javatouml.jar</a> from this repository</li>
 <li> Execute:<br/>
-     <code>java -jar javatouml.jar <input_folder_path> <output­file­name></code> <br/>
+     <code>java -jar javatouml.jar &ltinput-folder-path&gt &ltoutput-file-name&gt</code> <br/>
      e.g:
      <code> java -jar <a href="https://github.com/jagrutipatil/CodeToUML/blob/master/jar/javatouml.jar"> javatouml.jar</a> /home/jagruti/uml-parser-test-1 test1 </code>
      
