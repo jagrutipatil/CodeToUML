@@ -26,7 +26,7 @@
 </ol>
 
 <b> Examples:</b>
-<ul>
+<ol>
 <li><a href="https://github.com/jagrutipatil/CodeToUML/blob/master/testcases/uml-parser-test-1.zip">Test Case 1:</a>
 <br/>Output:<br/>
 <img src="https://github.com/jagrutipatil/CodeToUML/blob/master/testcases/output/test1.png">
@@ -43,4 +43,4 @@
 <br/>Output:<br/>
 <img src="https://github.com/jagrutipatil/CodeToUML/blob/master/testcases/output/test4.png">
 </li>
-</ul>
+</ol>
