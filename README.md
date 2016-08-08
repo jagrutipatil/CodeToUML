@@ -14,7 +14,7 @@
 <ol>
 <li> Install Graphviz, for your respective platform : <a href="http://www.graphviz.org/Download_windows.php"> Graphviz Link</a> </li>
 <li> Install Java 1.7 or above if you do not have already</li>
-<li> Download <a href="https://github.com/jagrutipatil/CodeToUML/blob/master/jar/javatouml.jar"> javatouml.jar</a> </li>
+<li> Download <a href="https://github.com/jagrutipatil/CodeToUML/blob/master/jar/javatouml.jar"> javatouml.jar</a> from this repository</li>
 <li> Execute:<br/>
      <code>java -jar javatouml.jar <input_folder_path> <output­file­name></code> <br/>
      e.g:
